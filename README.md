@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**TheoSrn/TheoSrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+My name is Théo and I'm a student in 3rd years at {EPITECH} scool. Later, I would work in AI 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats
+
+[![](https://raw.githubusercontent.com/TheoSrn/profile_stats/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TheoSrn/profile_stats/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TheoSrn/profile_stats/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TheoSrn/profile_stats/master/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TheoSrn/profile_stats/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+## My skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,nodejs,react,symfony,powershell,bash,cmake,postman,github,gitlab,visualstudio,godot,docker,discord,linux,linkedin)](https://skillicons.dev)
