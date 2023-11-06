@@ -13,4 +13,4 @@ My name is Théo, I'm 20 years old and I'm a student in 3rd years at {EPITECH} s
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,nodejs,react,symfony,powershell,bash,cmake,postman,github,gitlab,visualstudio,godot,docker,discord,linux,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,nodejs,react,symfony,powershell,bash,cmake,postman,github,gitlab,visualstudio,godot,docker,discord,linux,linkedin)](https://github.com/TheoSrn)
