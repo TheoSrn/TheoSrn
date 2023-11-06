@@ -13,4 +13,9 @@ My name is Théo, I'm 20 years old and I'm a student in 3rd years at {EPITECH} s
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,nodejs,react,symfony,powershell,bash,cmake,postman,github,gitlab,visualstudio,godot,docker,discord,linux,linkedin)](https://github.com/TheoSrn)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,nodejs,react,symfony,powershell,bash,cmake,postman,github,gitlab,visualstudio,godot,docker,discord,linux)](https://github.com/TheoSrn)
+
+## My networks
+
+### Instagram --> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/theoo.srn/)
+### Linkdin --> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/th%C3%A9o-serrano-792590234/)
