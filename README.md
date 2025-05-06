@@ -18,4 +18,4 @@ My name is Théo, I'm 21 years old and I'm a student in 3rd years at {EPITECH} s
 ## My networks
 
 ### Instagram --> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/theoo.srn/)
-### Linkdin --> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/th%C3%A9o-serrano-792590234/)
+### Linkdin --> [![My Skills](https://skillicons.dev/icons?i=linkedin)]https://www.linkedin.com/in/th%C3%A9o-serrano-3a6446359/
