@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-My name is Théo, I'm 22 years old and I'm a student in 4rd years at {EPITECH} school. Later, I would work in AI 😁
+My name is Théo, I'm 22 years old and I'm a student in 5rd years at {EPITECH} school.
 
 ## My stats
 
